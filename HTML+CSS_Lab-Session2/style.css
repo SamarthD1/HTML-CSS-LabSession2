@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://preview.redd.it/epic-clash-of-legends-karna-vs-arjuna-in-the-battle-of-v0-q0htyrmhkdrd1.jpeg?auto=webp&s=39bcdeac91b707b350e583ecf1f2b0627892b688);
+    background-repeat: no-repeat;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+  }
+  
+  header {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  h1{
+    text-align: center;
+  }
+  header img {
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid yellow;
+  }
+  
+  header h1 {
+    font-size: 2.5rem;
+    margin: 15px 0 5px;
+    color: darkorange;
+  }
+  
+  .bio, .details {
+    margin-top: 30px;
+  }
+  
+  .bio p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  
+  .details h2 {
+    color: darkorange;
+    margin-bottom: 10px;
+  }
+  
+  .details ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .details li {
+    margin-bottom: 10px;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 10px;
+    border-top: 1px solid #ccc;
+    color: #555;
+  }
+  
+  footer a {
+    color: #0077b6;
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
